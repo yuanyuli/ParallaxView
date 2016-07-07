@@ -1,0 +1,27 @@
+{
+  "name": "react-native-animated-button",
+  "version": "0.0.4",
+  "main": "library/Button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanyuli/AnimatedButton.git"
+  },
+   "bugs": {
+    "url": "https://github.com/yuanyuli/AnimatedButton/issues"
+  },
+   "homepage": "https://github.com/yuanyuli/AnimatedButton.git#readme",
+  "author": "Zhang Tian",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "animated",
+    "button",
+    "component"
+  ],
+  "dependencies": {
+  },
+  "description": {}
+}
